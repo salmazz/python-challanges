@@ -17,7 +17,7 @@ Welcome to the Python Challenges repository! This repository contains a curated 
 
 To embark on these thrilling coding challenges, simply clone this repository to your local machine using the following command:
 
-git clone https://github.com/salmazz/python-challenges.git
+git clone https://github.com/salmazz/python-challanges.git
 
 
 ## Requirements
