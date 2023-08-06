@@ -1,0 +1,52 @@
+[
+   {
+    "question_text": "Which animal is known as the 'King of the Jungle'?",
+    "alternatives": ["Elephant", "Lion", "Giraffe"],
+    "correct_answer": 2
+  },
+  {
+    "question_text": "What is the largest planet in our solar system?",
+    "alternatives": ["Venus", "Jupiter", "Mars"],
+    "correct_answer": 2
+  },
+  {
+    "question_text": "Which famous scientist developed the theory of general relativity?",
+    "alternatives": ["Isaac Newton", "Albert Einstein", "Galileo Galilei"],
+    "correct_answer": 2
+  },
+  {
+    "question_text": "What is the capital city of France?",
+    "alternatives": ["Berlin", "Paris", "Rome"],
+    "correct_answer": 2
+  },
+  {
+    "question_text": "Which of these famous artists painted the Mona Lisa?",
+    "alternatives": ["Pablo Picasso", "Leonardo da Vinci", "Vincent van Gogh"],
+    "correct_answer": 2
+  },
+  {
+    "question_text": "What is the chemical symbol for water?",
+    "alternatives": ["H2O", "CO2", "O2"],
+    "correct_answer": 1
+  },
+  {
+    "question_text": "In which country would you find the Great Pyramid of Giza?",
+    "alternatives": ["Egypt", "India", "Mexico"],
+    "correct_answer": 1
+  },
+  {
+    "question_text": "Which planet is closest to the Sun?",
+    "alternatives": ["Mars", "Venus", "Mercury"],
+    "correct_answer": 3
+  },
+  {
+    "question_text": "Who wrote the play 'Romeo and Juliet'?",
+    "alternatives": ["William Shakespeare", "Charles Dickens", "Jane Austen"],
+    "correct_answer": 1
+  },
+  {
+    "question_text": "What is the chemical symbol for gold?",
+    "alternatives": ["Au", "Ag", "Fe"],
+    "correct_answer": 1
+  }
+]
